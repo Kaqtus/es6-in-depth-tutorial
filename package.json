@@ -9,7 +9,7 @@
       "react"
     ]
   },
-  "description": "",
+  "description": "a",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
